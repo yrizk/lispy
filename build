@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cc -std=c99 -g lispy.c mpc.c -lm -ledit -o lispy
-cc -std=c99 -g expr_solution.c mpc.c -lm -ledit -o expr_solution
